@@ -1,2 +1,7 @@
 # Ignore environment-specific files
 .env
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
